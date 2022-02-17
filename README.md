@@ -11,7 +11,7 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nfabiop/HackerRank)](https://github.com/nfabiop/HackerRank)
 
-# SQL Problems and Solutions
+# SQL problems and solutions
 
 Here you can find the full list of SQL problems in HackerRank website as well as my own solutions.
 
