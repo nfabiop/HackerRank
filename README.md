@@ -41,3 +41,15 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 20 | Basic Select | SQL (Intermediate) | Easy | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [SQL](SQL/Weather_Observation_Station_5.sql) | 30 |
 | 21 | Aggregation | SQL (Basic) | Easy | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [SQL](SQL/Revising_Aggregations_The_Count_Function.sql) | 10 |
 | 22 | Aggregation | SQL (Basic) | Easy | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [SQL](SQL/Revising_Aggregations_The_Sum_Function.sql) | 10 |
+| 23 | Aggregation | SQL (Basic) | Easy | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [SQL](SQL/Revising_Aggregations_Averages.sql) | 10 |
+| 24 | Aggregation | SQL (Basic) | Easy | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [SQL](SQL/Average_Population.sql) | 10 |
+| 25 | Aggregation | SQL (Basic) | Easy | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [SQL](SQL/Japan_Population.sql) | 10 |
+| 26 | Aggregation | SQL (Basic) | Easy | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [SQL](SQL/Population_Density_Difference.sql) | 10 |
+| 27 | Aggregation | SQL (Basic) | Easy | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [SQL](SQL/The_Blunder.sql) | 15 |
+| 28 | Aggregation | SQL (Basic) | Easy | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [SQL](SQL/Top_Earners.sql) | 20 |
+| 29 | Aggregation | SQL (Basic) | Easy | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [SQL](SQL/Weather_Observation_Station_2.sql) | 15 |
+| 30 | Aggregation | SQL (Basic) | Easy | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [SQL](SQL/Weather_Observation_Station_13.sql) | 10 |
+| 31 | Aggregation | SQL (Basic) | Easy | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [SQL](SQL/Weather_Observation_Station_14.sql) | 10 |
+| 32 | Aggregation | SQL (Basic) | Easy | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [SQL](SQL/Weather_Observation_Station_15.sql) | 15 |
+| 33 | Aggregation | SQL (Basic) | Easy | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [SQL](SQL/Weather_Observation_Station_16.sql) | 10 |
+| 34 | Aggregation | SQL (Basic) | Easy | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
