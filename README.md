@@ -18,7 +18,7 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 
 
 | ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
-|:------:|------------|------------|------------|------------|------------|:---------:|
+|:------:|------------|------------|------------|---------------|------------|:---------:|
 | 1 | Basic Select | SQL (Basic) | Easy | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](SQL/Easy_Revising_the_Select_Query_I.sql) | 10 |
 | 2 | Basic Select | SQL (Basic) | Easy | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL](SQL/Easy_Revising_the_Select_Query_II.sql) | 10 |
 | 3 | Basic Select | SQL (Basic) | Easy | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [SQL](SQL/Selec_All.sql) | 10 |
