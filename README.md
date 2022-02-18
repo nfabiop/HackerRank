@@ -53,3 +53,17 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 32 | Aggregation | SQL (Basic) | Easy | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [SQL](SQL/Weather_Observation_Station_15.sql) | 15 |
 | 33 | Aggregation | SQL (Basic) | Easy | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [SQL](SQL/Weather_Observation_Station_16.sql) | 10 |
 | 34 | Aggregation | SQL (Basic) | Easy | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
+| 35 | Aggregation | SQL (Basic) | Medium | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [SQL](SQL/Weather_Observation_Station_18.sql) | 25 |
+| 36 | Aggregation | SQL (Basic) | Medium | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](SQL/Weather_Observation_Station_19.sql) | 30 |
+| 37 | Aggregation | SQL (Intermediate) | Medium | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](SQL/Weather_Observation_Station_20.sql) | 40 |
+| 38 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
+| 39 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
+| 40 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
+| 41 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
+| 42 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
+| 43 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
+| 44 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
+| 45 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 || 36 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
+| 46 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
+| 47 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
+| 48 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
