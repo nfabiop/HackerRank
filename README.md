@@ -9,6 +9,7 @@
     <br>
 </p>
 
+
 [![GitHub last commit](https://img.shields.io/github/last-commit/nfabiop/HackerRank)](https://github.com/nfabiop/HackerRank)
 ![ViewCount](https://views.whatilearened.today/views/github/nfabiop/HackerRank.svg?cache=remove)
 
@@ -77,3 +78,10 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 56 | Alternative Queries | SQL (Advanced) | Easy | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [SQL](SQL/Draw_The_Triangle_1.sql) | 25 |
 | 57 | Alternative Queries | SQL (Advanced) | Easy | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [SQL](SQL/Draw_The_Triangle_2.sql) | 25 |
 | 58 | Alternative Queries | SQL (Advanced) | Medium | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [SQL](SQL/Print_Prime_Numbers.sql) | 40 |
+
+<!---
+<div float=left align=center>
+  <img src="https://github.com/nfabiop/Certificates/blob/main/SQL%20(Basic).png" width="25%" />
+  <img src="https://github.com/nfabiop/Certificates/blob/main/SQL%20(Intermediate).png" width="25%" /> 
+</div>
+-->
