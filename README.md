@@ -39,3 +39,5 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 18 | Basic Select | SQL (Basic) | Easy | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [SQL](SQL/Employee_Names.sql) | 10 |
 | 19 | Basic Select | SQL (Basic) | Easy | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](SQL/Employee_Salaries.sql) | 10 |
 | 20 | Basic Select | SQL (Intermediate) | Easy | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [SQL](SQL/Weather_Observation_Station_5.sql) | 30 |
+| 21 | Aggregation | SQL (Basic) | Easy | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [SQL](SQL/Revising_Aggregations_The_Count_Function.sql) | 10 |
+| 22 | Aggregation | SQL (Basic) | Easy | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [SQL](SQL/Revising_Aggregations_The_Sum_Function.sql) | 10 |
