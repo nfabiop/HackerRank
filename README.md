@@ -38,4 +38,4 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 17 | Basic Select | SQL (Basic) | Easy | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [SQL](SQL/Higher_Than_75_Marks.sql) | 15 |
 | 18 | Basic Select | SQL (Basic) | Easy | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [SQL](SQL/Employee_Names.sql) | 10 |
 | 19 | Basic Select | SQL (Basic) | Easy | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](SQL/Employee_Salaries.sql) | 10 |
-| 20 | Basic Select | SQL (Basic) | Easy | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [SQL](SQL/Weather_Observation_Station_5.sql) | 30 |
+| 20 | Basic Select | SQL (Intermediate) | Easy | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [SQL](SQL/Weather_Observation_Station_5.sql) | 30 |
