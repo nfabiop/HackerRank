@@ -1,0 +1,4 @@
+SELECT name
+FROM Employee
+WHERE 1=1
+ORDER BY 1 ASC;
