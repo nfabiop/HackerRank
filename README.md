@@ -13,7 +13,7 @@
 
 # SQL Problems and Solutions
 
-Here you can find the full list of SQL problems in HackerRank website as well as my own solutions.
+Here you can find the full list of SQL problems from HackerRank website as well as my own solutions.
 
 
 | ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
