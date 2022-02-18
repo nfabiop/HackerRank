@@ -10,6 +10,7 @@
 </p>
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nfabiop/HackerRank)](https://github.com/nfabiop/HackerRank)
+![ViewCount](https://views.whatilearened.today/views/github/nfabiop/HackerRank.svg?cache=remove)
 
 # SQL Problems and Solutions
 
