@@ -56,15 +56,24 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 35 | Aggregation | SQL (Basic) | Medium | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [SQL](SQL/Weather_Observation_Station_18.sql) | 25 |
 | 36 | Aggregation | SQL (Basic) | Medium | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](SQL/Weather_Observation_Station_19.sql) | 30 |
 | 37 | Aggregation | SQL (Intermediate) | Medium | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](SQL/Weather_Observation_Station_20.sql) | 40 |
-| 38 | Aggregation | SQL (Basic) | Easy | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | [SQL](SQL/Population_Census.sql) | 10 |
-| 39 | Aggregation | SQL (Basic) | Easy | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [SQL](SQL/African_Cities.sql) | 10 |
-| 40 | Aggregation | SQL (Basic) | Easy | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [SQL](SQL/Average_Population_of_Each_Continent.sql) | 10 |
-| 41 | Aggregation | SQL (Intermediate) | Medium | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | [SQL](SQL/The_Report.sql) | 20 |
-| 42 | Aggregation | SQL (Intermediate) | Medium | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [SQL](SQL/Top_Competitors.sql) | 30 |
-| 43 | Aggregation | SQL (Intermediate) | Medium | [Ollivanders Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [SQL](SQL/Ollivanders_Inventory.sql) | 30 |
-| 44 | Aggregation | SQL (Intermediate) | Medium | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](SQL/Challenges.sql) | 30 |
-| 45 | Aggregation | SQL (Intermediate) | Medium | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](SQL/Contest_Leaderboard.sql) | 30 |
-| 36 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
-| 46 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
-| 47 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
-| 48 | Aggregation | SQL (Basic) | Medium | [](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](SQL/Weather_Observation_Station_17.sql) | 15 |
+| 38 | Basic Join | SQL (Basic) | Easy | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | [SQL](SQL/Population_Census.sql) | 10 |
+| 39 | Basic Join | SQL (Basic) | Easy | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [SQL](SQL/African_Cities.sql) | 10 |
+| 40 | Basic Join | SQL (Basic) | Easy | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [SQL](SQL/Average_Population_of_Each_Continent.sql) | 10 |
+| 41 | Basic Join | SQL (Intermediate) | Medium | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | [SQL](SQL/The_Report.sql) | 20 |
+| 42 | Basic Join | SQL (Intermediate) | Medium | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [SQL](SQL/Top_Competitors.sql) | 30 |
+| 43 | Basic Join | SQL (Intermediate) | Medium | [Ollivanders Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [SQL](SQL/Ollivanders_Inventory.sql) | 30 |
+| 44 | Basic Join | SQL (Intermediate) | Medium | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](SQL/Challenges.sql) | 30 |
+| 45 | Basic Join | SQL (Intermediate) | Medium | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](SQL/Contest_Leaderboard.sql) | 30 |
+| 46 | Advanced Select | SQL (Basic) | Easy | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [SQL](SQL/Type_of_Triangle.sql) | 20 |
+| 47 | Advanced Select | SQL (Basic) | Medium | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [SQL](SQL/The_PADS.sql) | 30 |
+| 48 | Advanced Select | SQL (Intermediate) | Medium | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [SQL](SQL/Occupations.sql) | 30 |
+| 49 | Advanced Select | SQL (Intermediate) | Medium | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [SQL](SQL/Binary_Tree_Nodes.sql) | 30 |
+| 50 | Advanced Select | SQL (Intermediate) | Medium | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](SQL/New_Companies.sql) | 30 |
+| 51 | Advanced Join | SQL (Intermediate) | Medium | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](SQL/SQL_Project_Planning.sql) | 40 |
+| 52 | Advanced Join | SQL (Intermediate) | Medium | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [SQL](SQL/Placements.sql) | 40 |
+| 53 | Advanced Join | SQL (Intermediate) | Medium | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [SQL](SQL/Symmetric_Pairs.sql) | 40 |
+| 54 | Advanced Join | SQL (Intermediate) | Hard | [Interviews](https://www.hackerrank.com/challenges/interviews/problem) | [SQL](SQL/Interviews.sql) | 50 |
+| 55 | Advanced Join | SQL (Advanced) | Hard | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | [SQL](SQL/15_Days_of_Learning_SQL.sql) | 50 |
+| 56 | Alternative Queries | SQL (Advanced) | Easy | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [SQL](SQL/Draw_The_Triangle_1.sql) | 25 |
+| 57 | Alternative Queries | SQL (Advanced) | Easy | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [SQL](SQL/Draw_The_Triangle_2.sql) | 25 |
+| 58 | Alternative Queries | SQL (Advanced) | Medium | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [SQL](SQL/Print_Prime_Numbers.sql) | 40 |
