@@ -13,11 +13,11 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/nfabiop/HackerRank)](https://github.com/nfabiop/HackerRank)
 ![ViewCount](https://views.whatilearened.today/views/github/nfabiop/HackerRank.svg?cache=remove)
 
-# SQL problems and solutions
+<br/>
+<br/>
 
 Here you can find the full list of SQL problems from HackerRank website as well as my own solutions.
-<br/>
-<br/>
+
 
 - [SQL](https://github.com/nfabiop/HackerRank#SQL)
 - [Python](https://github.com/nfabiop/HackerRank#Python)
@@ -35,6 +35,13 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 -->
 
 # SQL
+<p align="left">
+    <img src="https://img.shields.io/badge/Solved-58/58-blue.svg">
+    <img src="https://img.shields.io/badge/Easy-40-brightgreen.svg">
+    <img src="https://img.shields.io/badge/Medium-16-yellow.svg">
+    <img src="https://img.shields.io/badge/Hard-2-red.svg">
+   <!--- <img src="https://img.shields.io/badge/Language-SQL-grey.svg"> -->
+</p>
 
 | ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
 |:------:|------------|------------|------------|---------------|------------|:---------:|
@@ -97,6 +104,19 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 57 | Alternative Queries | SQL (Advanced) | Easy | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [SQL](SQL/Draw_The_Triangle_2.sql) | 25 |
 | 58 | Alternative Queries | SQL (Advanced) | Medium | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [SQL](SQL/Print_Prime_Numbers.sql) | 40 |
 
+
+
+# Python
+<p align="left">
+    <img src="https://img.shields.io/badge/Solved-58/58-blue.svg">
+    <img src="https://img.shields.io/badge/Easy-40-brightgreen.svg">
+    <img src="https://img.shields.io/badge/Medium-16-yellow.svg">
+    <img src="https://img.shields.io/badge/Hard-2-red.svg">
+   <!--- <img src="https://img.shields.io/badge/Language-SQL-grey.svg"> -->
+</p>
+
+
+
 <!---
 <div float=left align=center>
   <img src="https://github.com/nfabiop/Certificates/blob/main/SQL%20(Basic).png" width="25%" />
@@ -104,4 +124,4 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 </div>
 -->
 
-# Python
+
