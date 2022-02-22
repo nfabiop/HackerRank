@@ -16,7 +16,25 @@
 # SQL problems and solutions
 
 Here you can find the full list of SQL problems from HackerRank website as well as my own solutions.
+<br/>
+<br/>
 
+- [SQL](https://github.com/nfabiop/HackerRank#SQL)
+- [Python](https://github.com/nfabiop/HackerRank#Python)
+<!---
+* [JAVA](#java)
+* [ALGORITHMS](#algorithms)
+* [CRACKING THE CODING INTERVIEW](#cracking-the-coding-interview)
+* [DATA STRUCTURES](#data-structures)
+* [GENERAL PROGRAMMING](#general-programming)
+* [IMPLEMENTATION](#implementation)
+* [INTERVIEW PREPARATION KIT](#interview-preparation-kit)
+* [TOP 10 LEARNING RESOURCES](#top-10-learning-resources)
+
+  Coding environment used- Windows 8.1, Eclipse Oxygen, JAVA 8
+-->
+
+# SQL
 
 | ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
 |:------:|------------|------------|------------|---------------|------------|:---------:|
@@ -85,3 +103,5 @@ Here you can find the full list of SQL problems from HackerRank website as well 
   <img src="https://github.com/nfabiop/Certificates/blob/main/SQL%20(Intermediate).png" width="25%" /> 
 </div>
 -->
+
+# Python
