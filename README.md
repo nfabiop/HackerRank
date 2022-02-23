@@ -108,14 +108,16 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 
 # Python
 <p align="left">
-    <img src="https://img.shields.io/badge/Solved-58/58-blue.svg">
-    <img src="https://img.shields.io/badge/Easy-40-brightgreen.svg">
-    <img src="https://img.shields.io/badge/Medium-16-yellow.svg">
-    <img src="https://img.shields.io/badge/Hard-2-red.svg">
+    <img src="https://img.shields.io/badge/Solved-13/57-blue.svg">
+    <img src="https://img.shields.io/badge/Easy-11-brightgreen.svg">
+    <img src="https://img.shields.io/badge/Medium-2-yellow.svg">
+    <img src="https://img.shields.io/badge/Hard-0-red.svg">
    <!--- <img src="https://img.shields.io/badge/Language-SQL-grey.svg"> -->
 </p>
 
-
+| ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
+|:------:|------------|------------|------------|---------------|------------|:---------:|
+| 1 | Introduction | Python (Basic) | Easy | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [.py](Python/Say_Hello_World_With_Python.py) | 5 |
 
 <!---
 <div float=left align=center>
