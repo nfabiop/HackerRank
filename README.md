@@ -118,6 +118,9 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
 |:------:|------------|------------|------------|---------------|------------|:---------:|
 | 1 | Introduction | Python (Basic) | Easy | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [.py](Python/Say_Hello_World_With_Python.py) | 5 |
+| 2 | Introduction | Python (Basic) | Easy | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [.py](Python/Python_If_Else.py) | 10 |
+| 3 | Introduction | Python (Basic) | Easy | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [.py](Python/Arithmetic_Operators.py) | 10 |
+| 4 | Introduction | Python (Basic) | Easy | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [.py](Python/Python_Division.py) | 10 |
 
 <!---
 <div float=left align=center>
