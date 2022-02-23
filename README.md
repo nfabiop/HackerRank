@@ -121,6 +121,16 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 2 | Introduction | Python (Basic) | Easy | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [.py](Python/Python_If_Else.py) | 10 |
 | 3 | Introduction | Python (Basic) | Easy | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [.py](Python/Arithmetic_Operators.py) | 10 |
 | 4 | Introduction | Python (Basic) | Easy | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [.py](Python/Python_Division.py) | 10 |
+| 5 | Introduction | Python (Basic) | Easy | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [.py](Python/Loops.py) | 10 |
+| 6 | Introduction | Python (Basic) | Easy | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [.py](Python/Print_Function.py) | 20 |
+| 7 | Introduction | Python (Basic) | Medium | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [.py](Python/Write_a_function.py) | 10 |
+| 8 | Basic Data Types | Python (Basic) | Easy | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [.py](Python/List_Comprehensions.py) | 10 |
+| 9 | Basic Data Types | Python (Basic) | Easy | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [.py](Python/Find_the_RunnerUp_Score.py) | 10 |
+| 10 | Basic Data Types | Python (Basic) | Easy | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [.py](Python/Nested_Lists.py) | 10 |
+| 11 | Basic Data Types | Python (Basic) | Easy | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [.py](Python/Finding_the_percentage.py) | 10 |
+| 12 | Strings | Python (Basic) | Easy | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [.py](Python/Swap_Case.py) | 10 |
+| 13 | Math | Python (Basic) | Medium | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [.py](Python/Find_Angle_MBC.py) | 10 |
+
 
 <!---
 <div float=left align=center>
