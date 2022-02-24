@@ -108,8 +108,8 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 
 # Python
 <p align="left">
-    <img src="https://img.shields.io/badge/Solved-13/57-blue.svg">
-    <img src="https://img.shields.io/badge/Easy-11-brightgreen.svg">
+    <img src="https://img.shields.io/badge/Solved-16/57-blue.svg">
+    <img src="https://img.shields.io/badge/Easy-14-brightgreen.svg">
     <img src="https://img.shields.io/badge/Medium-2-yellow.svg">
     <img src="https://img.shields.io/badge/Hard-0-red.svg">
    <!--- <img src="https://img.shields.io/badge/Language-SQL-grey.svg"> -->
@@ -128,8 +128,12 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 9 | Basic Data Types | Python (Basic) | Easy | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [.py](Python/Find_the_RunnerUp_Score.py) | 10 |
 | 10 | Basic Data Types | Python (Basic) | Easy | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [.py](Python/Nested_Lists.py) | 10 |
 | 11 | Basic Data Types | Python (Basic) | Easy | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [.py](Python/Finding_the_percentage.py) | 10 |
-| 12 | Strings | Python (Basic) | Easy | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [.py](Python/Swap_Case.py) | 10 |
-| 13 | Math | Python (Basic) | Medium | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [.py](Python/Find_Angle_MBC.py) | 10 |
+| 12 | Basic Data Types | Python (Basic) | Easy | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [.py](Python/Tuples.py) | 10 |
+| 13 | Strings | Python (Basic) | Easy | [Whats Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [.py](Python/Whats_Your_Name?.py) | 10 |
+| 14 | Strings | Python (Basic) | Easy | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [.py](Python/Mutations.py) | 10 |
+| 15 | Strings | Python (Basic) | Easy | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [.py](Python/Swap_Case.py) | 10 |
+| 16 | Math | Python (Basic) | Medium | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [.py](Python/Find_Angle_MBC.py) | 10 |
+
 
 
 <!---
