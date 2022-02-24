@@ -34,6 +34,9 @@ Here you can find the full list of SQL problems from HackerRank website as well 
   Coding environment used- Windows 8.1, Eclipse Oxygen, JAVA 8
 -->
 
+<br/>
+<br/>
+
 # SQL
 <p align="left">
     <img src="https://img.shields.io/badge/Solved-58/58-blue.svg">
@@ -42,6 +45,9 @@ Here you can find the full list of SQL problems from HackerRank website as well 
     <img src="https://img.shields.io/badge/Hard-2-red.svg">
    <!--- <img src="https://img.shields.io/badge/Language-SQL-grey.svg"> -->
 </p>
+
+<br/>
+<br/>
 
 | ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
 |:------:|----------------|------------|------------|---------------|------------|:---------:|
@@ -104,7 +110,8 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 57 | Alternative Queries | SQL (Advanced) | Easy | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [SQL](SQL/Draw_The_Triangle_2.sql) | 25 |
 | 58 | Alternative Queries | SQL (Advanced) | Medium | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [SQL](SQL/Print_Prime_Numbers.sql) | 40 |
 
-
+<br/>
+<br/>
 
 # Python
 <p align="left">
@@ -114,6 +121,9 @@ Here you can find the full list of SQL problems from HackerRank website as well 
     <img src="https://img.shields.io/badge/Hard-0-red.svg">
    <!--- <img src="https://img.shields.io/badge/Language-SQL-grey.svg"> -->
 </p>
+
+<br/>
+<br/>
 
 | ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
 |:------:|----------------|------------|------------|---------------|------------|:---------:|
