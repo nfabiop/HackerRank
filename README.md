@@ -115,9 +115,9 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 
 # Python
 <p align="left">
-    <img src="https://img.shields.io/badge/Solved-16/57-blue.svg">
-    <img src="https://img.shields.io/badge/Easy-14-brightgreen.svg">
-    <img src="https://img.shields.io/badge/Medium-2-yellow.svg">
+    <img src="https://img.shields.io/badge/Solved-24/57-blue.svg">
+    <img src="https://img.shields.io/badge/Easy-21-brightgreen.svg">
+    <img src="https://img.shields.io/badge/Medium-3-yellow.svg">
     <img src="https://img.shields.io/badge/Hard-0-red.svg">
    <!--- <img src="https://img.shields.io/badge/Language-SQL-grey.svg"> -->
 </p>
@@ -152,7 +152,7 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 23 | Strings | Python (Basic) | Easy | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | .py | 20 |
 | 24 | Strings | Python (Basic) | Easy | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | .py | 20 |
 | 25 | Strings | Python (Basic) | Easy | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | .py | 10 |
-| 26 | Strings | Python (Basic) | Easy | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [.py](Python/Merge_the_Tools.py) | 40 |
+| 26 | Strings | Python (Basic) | Medium | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [.py](Python/Merge_the_Tools.py) | 40 |
 | 27 | Strings | Python (Basic) | Easy | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | .py | 40 |
 | 28 | Sets | Python (Basic) | Easy | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [.py](Python/Introduction_to_Sets.py) | 10 |
 | 29 | Sets | Python (Basic) | Easy | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [.py](Python/Symmetric_Difference.py) | 10 |
