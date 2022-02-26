@@ -153,7 +153,7 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 24 | Strings | Python (Basic) | Easy | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | .py | 20 |
 | 25 | Strings | Python (Basic) | Easy | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | .py | 10 |
 | 26 | Strings | Python (Basic) | Medium | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [.py](Python/Merge_the_Tools.py) | 40 |
-| 27 | Strings | Python (Basic) | Easy | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | .py | 40 |
+| 27 | Strings | Python (Basic) | Medium | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | .py | 40 |
 | 28 | Sets | Python (Basic) | Easy | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [.py](Python/Introduction_to_Sets.py) | 10 |
 | 29 | Sets | Python (Basic) | Easy | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [.py](Python/Symmetric_Difference.py) | 10 |
 | 30 | Math | Python (Basic) | Medium | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [.py](Python/Find_Angle_MBC.py) | 10 |
