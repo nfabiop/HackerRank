@@ -50,7 +50,7 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 <br/>
 
 | ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
-|:------:|----------------|------------|------------|---------------|------------|:---------:|
+|:------:|------------------|------------------|------------|---------------|------------|:---------:|
 | 1 | Basic Select | SQL (Basic) | Easy | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [.sql](SQL/Easy_Revising_the_Select_Query_I.sql) | 10 |
 | 2 | Basic Select | SQL (Basic) | Easy | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [.sql](SQL/Easy_Revising_the_Select_Query_II.sql) | 10 |
 | 3 | Basic Select | SQL (Basic) | Easy | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [.sql](SQL/Selec_All.sql) | 10 |
@@ -126,7 +126,7 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 <br/>
 
 | ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
-|:------:|----------------|----------------|------------|---------------|------------|:---------:|
+|:------:|------------------|------------------|------------|---------------|------------|:---------:|
 | 1 | Introduction | Python (Basic) | Easy | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [.py](Python/Say_Hello_World_With_Python.py) | 5 |
 | 2 | Introduction | Python (Basic) | Easy | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [.py](Python/Python_If_Else.py) | 10 |
 | 3 | Introduction | Python (Basic) | Easy | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [.py](Python/Arithmetic_Operators.py) | 10 |
