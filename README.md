@@ -139,10 +139,26 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 10 | Basic Data Types | Python (Basic) | Easy | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [.py](Python/Nested_Lists.py) | 10 |
 | 11 | Basic Data Types | Python (Basic) | Easy | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [.py](Python/Finding_the_percentage.py) | 10 |
 | 12 | Basic Data Types | Python (Basic) | Easy | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [.py](Python/Tuples.py) | 10 |
-| 13 | Strings | Python (Basic) | Easy | [Whats Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [.py](Python/Whats_Your_Name?.py) | 10 |
-| 14 | Strings | Python (Basic) | Easy | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [.py](Python/Mutations.py) | 10 |
-| 15 | Strings | Python (Basic) | Easy | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [.py](Python/Swap_Case.py) | 10 |
-| 16 | Math | Python (Basic) | Medium | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [.py](Python/Find_Angle_MBC.py) | 10 |
+| 13 | Basic Data Types | Python (Basic) | Easy | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | .py | 10 |
+| 14 | Strings | Python (Basic) | Easy | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [.py](Python/Swap_Case.py) | 10 |
+| 15 | Strings | Python (Basic) | Easy | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [.py](Python/String_Split_and_Join.py) | 10 |
+| 16 | Strings | Python (Basic) | Easy | [Whats Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [.py](Python/Whats_Your_Name?.py) | 10 |
+| 17 | Strings | Python (Basic) | Easy | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [.py](Python/Mutations.py) | 10 |
+| 18 | Strings | Python (Basic) | Easy | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [.py](Python/Find_a_string.py) | 10 |
+| 19 | Strings | Python (Basic) | Easy | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | [.py](Python/String_Validators.py) | 10 |
+| 20 | Strings | Python (Basic) | Easy | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem) | [.py](Python/Text_Alignment.py) | 10 |
+| 21 | Strings | Python (Basic) | Easy | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem) | [.py](Python/Text_Wrap.py) | 10 |
+| 22 | Strings | Python (Basic) | Easy | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | .py | 10 |
+| 23 | Strings | Python (Basic) | Easy | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | .py | 20 |
+| 24 | Strings | Python (Basic) | Easy | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | .py | 20 |
+| 25 | Strings | Python (Basic) | Easy | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | .py | 10 |
+| 26 | Strings | Python (Basic) | Easy | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [.py](Python/Merge_the_Tools.py) | 40 |
+| 27 | Strings | Python (Basic) | Easy | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | .py | 40 |
+| 28 | Sets | Python (Basic) | Easy | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [.py](Python/Introduction_to_Sets.py) | 10 |
+| 29 | Sets | Python (Basic) | Easy | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [.py](Python/Symmetric_Difference.py) | 10 |
+| 30 | Math | Python (Basic) | Medium | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [.py](Python/Find_Angle_MBC.py) | 10 |
+
+
 
 
 
