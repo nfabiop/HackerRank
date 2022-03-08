@@ -21,7 +21,7 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 
 - [SQL](https://github.com/nfabiop/HackerRank#SQL)
 - [Python](https://github.com/nfabiop/HackerRank#Python)
-- [10 Days Of Statistics](https://github.com/nfabiop/HackerRank#Days_Of_Statistics)
+- [10 Days Of Statistics](https://github.com/nfabiop/HackerRank#10 Days Of Statistics)
 <!---
 * [JAVA](#java)
 * [ALGORITHMS](#algorithms)
@@ -160,7 +160,7 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 30 | Math | Python (Basic) | Medium | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [.py](Python/Find_Angle_MBC.py) | 10 |
 
 
-# Days_Of_Statistics
+# 10 Days Of Statistics
 
 <p align="left">
     <img src="https://img.shields.io/badge/Solved-24/57-blue.svg">
