@@ -175,9 +175,8 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 
 | ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
 |:------:|------------------|------------------|------------|---------------|------------|:---------:|
-| 1 | Introduction | Python (Basic) | Easy | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [.py](Python/Say_Hello_World_With_Python.py) | 5 |
-| 2 | Introduction | Python (Basic) | Easy | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [.py](Python/Python_If_Else.py) | 10 |
-| 3 | Introduction | Python (Basic) | Easy | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [.py](Python/Arithmetic_Operators.py) | 10 |
+| 1 | Day 0 | Problem Solving (Basic) | Easy | [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [.py](10_Days_of_Statistics/Day_0_Mean_Median_and_Mode.py) | 30 |
+
 
 
 
