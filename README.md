@@ -21,6 +21,7 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 
 - [SQL](https://github.com/nfabiop/HackerRank#SQL)
 - [Python](https://github.com/nfabiop/HackerRank#Python)
+- [10 Days Of Statistics](https://github.com/nfabiop/HackerRank#Days_Of_Statistics)
 <!---
 * [JAVA](#java)
 * [ALGORITHMS](#algorithms)
@@ -115,7 +116,7 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 
 # Python
 <p align="left">
-    <img src="https://img.shields.io/badge/Solved-24/57-blue.svg">
+    <img src="https://img.shields.io/badge/Solved-24/115-blue.svg">
     <img src="https://img.shields.io/badge/Easy-21-brightgreen.svg">
     <img src="https://img.shields.io/badge/Medium-3-yellow.svg">
     <img src="https://img.shields.io/badge/Hard-0-red.svg">
@@ -157,6 +158,27 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 28 | Sets | Python (Basic) | Easy | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [.py](Python/Introduction_to_Sets.py) | 10 |
 | 29 | Sets | Python (Basic) | Easy | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [.py](Python/Symmetric_Difference.py) | 10 |
 | 30 | Math | Python (Basic) | Medium | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [.py](Python/Find_Angle_MBC.py) | 10 |
+
+
+# Days_Of_Statistics
+
+<p align="left">
+    <img src="https://img.shields.io/badge/Solved-24/57-blue.svg">
+    <img src="https://img.shields.io/badge/Easy-21-brightgreen.svg">
+    <img src="https://img.shields.io/badge/Medium-3-yellow.svg">
+    <img src="https://img.shields.io/badge/Hard-0-red.svg">
+   <!--- <img src="https://img.shields.io/badge/Language-SQL-grey.svg"> -->
+</p>
+
+<br/>
+<br/>
+
+| ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
+|:------:|------------------|------------------|------------|---------------|------------|:---------:|
+| 1 | Introduction | Python (Basic) | Easy | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [.py](Python/Say_Hello_World_With_Python.py) | 5 |
+| 2 | Introduction | Python (Basic) | Easy | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [.py](Python/Python_If_Else.py) | 10 |
+| 3 | Introduction | Python (Basic) | Easy | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [.py](Python/Arithmetic_Operators.py) | 10 |
+
 
 
 
