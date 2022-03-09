@@ -176,6 +176,11 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
 |:------:|------------------|------------------|------------|---------------|------------|:---------:|
 | 1 | Day 0 | Problem Solving (Basic) | Easy | [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [.py](10_Days_of_Statistics/Day_0_Mean_Median_and_Mode.py) | 30 |
+| 2 | Day 0 | Problem Solving (Basic) | Easy | [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [.py](10_Days_of_Statistics/Day_0_Weighted_Mean.py) | 30 |
+| 3 | Day 1 | Problem Solving (Basic) | Easy | [Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem) | [.py](10_Days_of_Statistics/Day_1_Quartiles.py) | 30 |
+| 4 | Day 1 | Problem Solving (Basic) | Easy | [Day 1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem) | [.py](10_Days_of_Statistics/Day_1_Interquartile_Range.py) | 30 |
+| 5 | Day 1 | Problem Solving (Basic) | Easy | [Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) | [.py](10_Days_of_Statistics/Day_1_Standard_Deviation.py) | 30 |
+
 
 
 
