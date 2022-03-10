@@ -182,7 +182,22 @@ Here you can find the full list of SQL problems from HackerRank website as well 
 | 5 | Day 1 | Problem Solving (Basic) | Easy | [Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) | [.py](10_Days_of_Statistics/Day_1_Standard_Deviation.py) | 30 |
 
 
+# Algorithms
 
+<p align="left">
+    <img src="https://img.shields.io/badge/Solved-1/57-blue.svg">
+    <img src="https://img.shields.io/badge/Easy-1-brightgreen.svg">
+    <img src="https://img.shields.io/badge/Medium-0-yellow.svg">
+    <img src="https://img.shields.io/badge/Hard-0-red.svg">
+   <!--- <img src="https://img.shields.io/badge/Language-SQL-grey.svg"> -->
+</p>
+
+<br/>
+<br/>
+
+| ID |Subdomain | Skills | Difficulty | Challenge | MySolution | Points |
+|:------:|------------------|------------------|------------|---------------|------------|:---------:|
+| 1 | Warmup | Problem Solving (Basic) | Easy | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [.py](Algorithms/Solve_Me_First.py) | 30 |
 
 
 
