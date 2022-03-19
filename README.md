@@ -19,7 +19,7 @@
 Here you can find the full list of SQL problems from HackerRank website as well as my own solutions.
 
 
-- [SQL](https://github.com/nfabiop/HackerRank#SQL)
+- [SQL](https://github.com/nfabiop/HackerRank/tree/master/SQL)
 - [Python](https://github.com/nfabiop/HackerRank#Python)
 - [10 Days Of Statistics](https://github.com/nfabiop/HackerRank#10_Days_Of_Statistics)
 <!---
